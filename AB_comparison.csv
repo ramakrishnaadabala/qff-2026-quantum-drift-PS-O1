@@ -1,0 +1,6 @@
+Metric,Processor A,Processor B,Difference
+Max-Cut Energy/Objective,14.0,14.0,0.0
+Circuit Depth,45.0,85.0,40.0
+2Q Gates,15.0,35.0,20.0
+SWAP Count,0.0,8.0,8.0
+Physical Qubits,5.0,7.0,2.0
