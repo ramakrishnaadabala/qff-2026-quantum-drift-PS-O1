@@ -9,10 +9,10 @@
 
 **Team Members:**
 * **Ramakrishna Adabala** (Leader) - Rajamahendri Institute of Engineering & Technology
-* **Asha Dharmani** - Rajamahendri Institute of Engineering & Technology
 * **Nayomi G** - Rajamahendri Institute of Engineering & Technology
 * **Gunda Saranya** - Rajamahendri Institute of Engineering & Technology
 * **G Swathi** - Rajamahendri Institute of Engineering & Technology
+* **Asha Dharmani** - Rajamahendri Institute of Engineering & Technology
 
 
 ## Overview
