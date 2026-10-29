@@ -1,0 +1,6 @@
+category,processor,classical_optimum,best_sampled_cut,best_cut_approximation_ratio,expected_cut,expected_approximation_ratio,optimal_sampling_probability,restart_mean_expected_cut,restart_std_expected_cut,circuit_depth,CX_count,routing_CX_overhead,explicit_SWAP_count,final_layout
+classical_exact,reference,21,,,,,,,,,,,,
+ideal_p1,logical,21,21.0,1.0,17.75390625,0.8454241071428571,0.1414794921875,15.237050477276828,1.07894636906415,36.0,20.0,0.0,0.0,logical
+noisy_hardware_simulation,Processor A (provisional linear),21,,,,,0.109619140625,15.237050477276828,1.07894636906415,66.0,44.0,24.0,0.0,"[4, 0, 1, 5, 2, 3]"
+noisy_hardware_simulation,Processor B (provisional ring),21,,,,,0.0994873046875,15.237050477276828,1.07894636906415,58.0,38.0,18.0,0.0,"[6, 1, 2, 5, 3, 4]"
+noisy_hardware_simulation,Processor D (provisional all-to-all),21,,,,,0.1282958984375,15.237050477276828,1.07894636906415,36.0,20.0,0.0,0.0,"[0, 1, 2, 3, 4, 5]"
