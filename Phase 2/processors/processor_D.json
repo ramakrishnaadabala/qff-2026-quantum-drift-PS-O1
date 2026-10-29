@@ -1,0 +1,20 @@
+{
+  "name": "Processor D",
+  "team": "Quantum Drifters",
+  "problem_statement": "PS-O1",
+  "num_qubits": 6,
+  "edges": [
+    [0, 2], [0, 3], [0, 4],
+    [1, 4], [1, 5],
+    [2, 3], [2, 4],
+    [3, 4], [3, 5]
+  ],
+  "basis_gates": ["rz", "sx", "x", "cx"],
+  "noise": {
+    "model": "official",
+    "p1": 0.001,
+    "p2": 0.005,
+    "p_readout": 0.01
+  },
+  "design_rationale": "The measured Processor B compilation of the required p=1 circuit has 1 routed SWAP, 3 additional CX gates, and depth 37. Processor D embeds the locked nine-edge PS-O1 interaction graph directly with maximum degree 4, targeting that routing overhead while retaining a connected, non-all-to-all topology."
+}

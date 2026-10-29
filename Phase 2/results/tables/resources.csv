@@ -1,0 +1,4 @@
+processor,executable,reason,logical_qubits,physical_qubits,logical_cx,cx,one_q_gates,depth,two_q_depth,swaps,cx_overhead
+A,False,needs 6 qubits > 5,,,,,,,,,
+B,True,,6.0,9.0,18.0,21.0,57.0,37.0,17.0,1.0,3.0
+D,True,,6.0,6.0,18.0,18.0,57.0,29.0,14.0,0.0,0.0

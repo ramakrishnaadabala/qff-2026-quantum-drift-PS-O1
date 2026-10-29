@@ -1,0 +1,15 @@
+# QFF 2026 Phase 2 - exact pins; Python 3.11 pins are the clean-run versions.
+qiskit==2.6.1
+qiskit-aer==0.17.2; python_version < "3.11"
+qiskit-aer==0.18.2; python_version >= "3.11"
+numpy==2.2.6; python_version < "3.11"
+numpy==2.4.6; python_version >= "3.11"
+scipy==1.15.3; python_version < "3.11"
+scipy==1.17.1; python_version >= "3.11"
+networkx==3.4.2; python_version < "3.11"
+networkx==3.6.1; python_version >= "3.11"
+matplotlib==3.10.8; python_version < "3.11"
+matplotlib==3.11.2; python_version >= "3.11"
+pandas==2.3.3; python_version < "3.11"
+pandas==3.1.0; python_version >= "3.11"
+jupyter==1.1.1
