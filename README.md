@@ -2,7 +2,7 @@ PS-01
 
 # Qiskit Fall Fest 2026 — Phase 2
 
-**Problem statement:** PS-01
+**Problem statement:** PS-O1 (Phase 1 label: PS-01)
 
 ## Run the submission
 
